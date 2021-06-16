@@ -1,0 +1,48 @@
+.controls {
+  text-align: center;
+}
+
+.slots {
+  text-align: center;
+}
+.slots img {
+  height: 100px;
+  padding: 10px;
+}
+
+.message.show {
+  display: block;
+}
+
+.message {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 28px;
+  font-weight: bold;
+  margin: 0;
+  display: none; /* Hide the winner loser message */
+}
+
+.buttonLink {
+  box-shadow: 0px 0px 0px 0px #07571b;
+  background-color: rgb(15, 253, 27);
+  border-radius: 28px;
+  border: 1px solid #fc0ef0;
+  display: inline-block;
+  cursor: pointer;
+  color: black;
+  font-family: Arial, Helvetica;
+  font-size: 28px;
+  font-weight: bold;
+  font-style: italic;
+  padding: 16px 31px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #9f2dd471;
+}
+.buttonLink:hover {
+  background-color: aquamarine;
+}
+.buttonLink:active {
+  position: relative;
+  top: 1px;
+}

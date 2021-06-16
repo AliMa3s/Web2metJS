@@ -1,5 +1,6 @@
 # Web2metJS
 Week1: ster + csl
+
 Week2: textchange via js
 Week3: extras paragraafen enz..
 Week4:div paras, mouseover,mousemove,mouseleave,divparabackgroundchange,colorpicker 

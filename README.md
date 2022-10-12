@@ -20,4 +20,4 @@ Week8: removeChildfromList, remove from list, colorpicker with sve button
 
 Week9: objecten, object to list, contact manager
 
-Week10: Jsontekest,JSon,Jsonobject,colorpicker with datacolor
+Week10: Jsontekest,JSon,Jsonobject,colorpicker with datacolor.
